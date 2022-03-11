@@ -10,5 +10,12 @@
  + ZZR 网站
  + WXH 载荷
 
+## 项目结构
+
 ## 目前需要考虑的问题:
-  + 
+  + LICENSE is TBD
+  + ~~让WXH联系到其他两位dalao~~
+
+## TODO LIST
+  + 基本啥都在todo
+  + 用rust重构c
